@@ -1,0 +1,6 @@
+{
+  "name": "Balans Byråsystem",
+  "description": "Helhetslösning för auktoriserade redovisningsbyråer: löpande bokföring, lön, moms och K2-årsredovisning för 65+ klienter.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
